@@ -45,11 +45,11 @@ Projects: ["Rbx Management", "3d Printing"]
 <details open>
 <summary><strong>🌟 Notable Work</strong></summary>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="18"/> <a href="https://github.com/oogx/R6-Recoil-Macro"><b>Rainbow Six Siege, Recoil Macro</b></a>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:16px; vertical-align:middle;"/> <a href="https://github.com/oogx/R6-Recoil-Macro"><b>Rainbow Six Siege, Recoil Macro</b></a>
 > Proof of concept that turned into a sold project. Uses mouse input via Arduino HID detection.  
 > <a href="https://github.com/oogx/R6-Recoil-Macro/issues">Issues</a> · <a href="https://github.com/oogx/R6-Recoil-Macro">README</a>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="18"/> <a href="https://github.com/oogx/Vestra"><b>Vestra Hub, Roblox Script Hub</b></a>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="height:16px; vertical-align:middle;"/> <a href="https://github.com/oogx/Vestra"><b>Vestra Hub, Roblox Script Hub</b></a>
 > Feature-rich and widely adopted script hub for Roblox (2019–2022), reaching over 1 million users at its peak.  
 > <a href="https://github.com/oogx/Vestra">Original Repo</a> · <a href="https://github.com/Vestra-Tech/Rblx">New Repo</a> · <a href="https://github.com/oogx/lua-obfuscator">Obfuscator Used</a>
 </details>
@@ -66,8 +66,8 @@ Projects: ["Rbx Management", "3d Printing"]
 | [R6-Recoil-Macro](https://github.com/oogx/R6-Recoil-Macro) | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"> | Proof-of-concept recoil macro using Arduino HID mouse input. | ![Stars](https://img.shields.io/github/stars/oogx/R6-Recoil-Macro?style=social) | [Repo](https://github.com/oogx/R6-Recoil-Macro) |
 | [WMP_Overlay](https://github.com/oogx/WMP_Overlay) | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"> | C++ overlay that hijacks Windows Media Player to render custom drawings on top. | ![Stars](https://img.shields.io/github/stars/oogx/WMP_Overlay?style=social) | [Repo](https://github.com/oogx/WMP_Overlay) |
 | [Window-Activator](https://github.com/oogx/Window-Activator) | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"> | C++ app using ImGui that auto-detects Windows version and activates it for free via Key Management Service (KMS). | ![Stars](https://img.shields.io/github/stars/oogx/Window-Activator?style=social) | [Repo](https://github.com/oogx/Window-Activator) |
-| [Roblox](https://github.com/oogx/Roblox) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="18"/> | Lua user interfaces and drawing libraries for Vestra, designed to bypass screen sharing and recording detection. | ![Stars](https://img.shields.io/github/stars/oogx/Roblox?style=social) | [Repo](https://github.com/oogx/Roblox) |
-| [Vestra](https://github.com/oogx/Vestra) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="18"/> | Former home of a Roblox script hub that ran from 2018 to 2022. | ![Stars](https://img.shields.io/github/stars/oogx/Vestra?style=social) | [Repo](https://github.com/oogx/Vestra) |
+| [Roblox](https://github.com/oogx/Roblox) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="height:16px; vertical-align:middle;"/> | Lua user interfaces and drawing libraries for Vestra, designed to bypass screen sharing and recording detection. | ![Stars](https://img.shields.io/github/stars/oogx/Roblox?style=social) | [Repo](https://github.com/oogx/Roblox) |
+| [Vestra](https://github.com/oogx/Vestra) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="height:16px; vertical-align:middle;"/> | Former home of a Roblox script hub that ran from 2018 to 2022. | ![Stars](https://img.shields.io/github/stars/oogx/Vestra?style=social) | [Repo](https://github.com/oogx/Vestra) |
 
 <p align="right"><a href="https://github.com/oogx?tab=repositories"><b>→ See more</b></a></p>
 </details>
