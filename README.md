@@ -4,7 +4,7 @@
 <h1 align="center"><b>Hey, I'm <span style="color:#FF6F61;">Joe</span> 👋</b></h1>
 <p align="center">
   <b>Backend Dev · Learner · Security Enthusiast</b><br>
-  <i>Age: 18 · North West England</i>
+  <i>Age: 19 · North West England</i>
 </p>
 
 ---
@@ -28,13 +28,13 @@
 
 ```yaml
 Languages: [Java Script, C++, C#, Lua/LuaU, Web Triad (HTML, CSS, JavaScript), PHP (ish)]
-Learning: [Pentesting, Reverse Engineering]
+Learning: [Java, Pentesting, Reverse Engineering]
 Background: "Self-taught dev with roots in unconventional projects."
 Projects: ["Rbx Management", "3d Printing"]
 ```
 
-- 🛠️ &nbsp; I solve problems with code — that’s the short version...
-- 🎮 &nbsp; Former cheat dev — soz n all.
+- 🛠️ &nbsp; I solve problems with code - that’s the short version...
+- 🎮 &nbsp; Former cheat dev - soz n all.
 - 🌐 &nbsp; Built and scaled a platform that hit 7 figures in users.
 - 🤖 &nbsp; I automate because I’m lazy. Efficiently lazy.
 
